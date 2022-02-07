@@ -1,3 +1,4 @@
 git branch name
 git checkout name переход на ветку name
 git add . it`s add all files in this folder, all changes
+git checkout main and after git merge name    it`s add all files from branch
