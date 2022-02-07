@@ -1,0 +1,14 @@
+1) Создать папку  mkdir
+3) Зайти в папку cd
+4) Создать 3 папки mkdir folder_1 folder_2 folder_3
+5) Зайти в любоую папку cd and name folder
+6) Создать 5 файлов (3 txt, 2 json) touch dz_text1.txt dz_text2.txt dz_text3.txt dz_text.json dz_text1.json
+7) Вывести список содержимого папки  ls or ls -la
+9) + Открыть любой txt файл vim
+10) + написать туда что-нибудь, любой текст. 
+11) + сохранить и выйти.
+12) Выйти из папки на уровень выше cd
+
+git_add
+git commit -m "1"
+git push
