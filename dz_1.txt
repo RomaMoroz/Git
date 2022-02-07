@@ -12,3 +12,7 @@
 git_add
 git commit -m "1"
 git push
+
+git reset убрать файл из под наблюдения гита
+git commit -am "1" сразу и добавил и закомитил 
+git log  can see commit
